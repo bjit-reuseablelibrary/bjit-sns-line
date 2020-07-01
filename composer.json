@@ -1,6 +1,8 @@
 {
     "name": "bjit/bjit-sns-line",
     "description": "Line authentication Library",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "mahabub.mollah",
